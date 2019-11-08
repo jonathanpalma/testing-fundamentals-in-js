@@ -1,0 +1,23 @@
+{
+  "name": "testing-fundamentals-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonathanpalma/testing-fundamentals-in-js.git"
+  },
+  "author": "Jonathan Palma <tanpalma04@gmail.com> (http://jonathanpalma.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jonathanpalma/testing-fundamentals-in-js/issues"
+  },
+  "homepage": "https://github.com/jonathanpalma/testing-fundamentals-in-js#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
